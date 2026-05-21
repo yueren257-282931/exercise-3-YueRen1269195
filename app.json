@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Messages Directory",
+    "slug": "messages-directory-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/app_icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/app_icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f8fbff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.yueren.messagesdirectory",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/app_icon.png",
+        "backgroundColor": "#f8fbff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/app_icon.png"
+    }
+  }
+}
